@@ -1,0 +1,12 @@
+ul.regur_hpp_multicheck_sortable_list .regur_hpp_multicheck_sortable_handle{
+	float: right;
+	cursor: move;
+}
+ul.regur_hpp_multicheck_sortable_list li{
+	padding: 7px;
+	border: 1px solid #e5e5e5;
+	background: #fafafa;
+}
+.regur_hpp_hideme{
+	display: none !important;
+}

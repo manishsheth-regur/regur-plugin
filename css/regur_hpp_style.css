@@ -1,0 +1,28 @@
+.ui-state-highlight { height: 1.5em; line-height: 1.2em; background-color: white; }
+		.regur_hpp_widget{ min-height: 150px; width: 400px; background-color: white;	 }
+		#sortable{ margin-top: 10px; }
+		.sortable_widget{ margin : 5px 5px 5px 5px; height: 30px }
+		.ui-icon-arrowthick-2-n-s {
+    background-position: -128px -48px;
+}
+.regur_hpp_icons
+{
+	float: right;
+	margin-top: 5px;
+}
+.regur_hpp_checkbox
+{
+	float: left;
+	margin: 3px;
+}
+#regur_hpp_widget_title
+{
+	margin: 5px;
+}
+#regur_hpp_mobile_widget_display_settings
+{
+	width: 150px;
+
+	display: block;
+	min-height: 100px;
+}
